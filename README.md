@@ -166,6 +166,7 @@ body::before {
 <a href="20231202_077.JPG" data-lightbox="abc"><img src="20231202_077.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231202_078.JPG" data-lightbox="abc"><img src="20231202_078.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231202_079.JPG" data-lightbox="abc"><img src="20231202_079.JPG" alt="サンプル画像" width="900" /></a>
+<p>帰りに寄った沼津港にあるレストランのお刺身定食です。<br>美味かった。目で味わってください（笑）</p>
 <a href="20231202_080.JPG" data-lightbox="abc"><img src="20231202_080.JPG" alt="サンプル画像" width="900" /></a>
 
 
