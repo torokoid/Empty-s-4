@@ -82,11 +82,11 @@ body::before {
 <!--
 <a href="https://tabelog.com/tokyo/A1301/A130103/13007107/" target="_blank"><img src="20230610_039.JPG" alt="サンプル画像" width="900" /></a>-->
 	<br><br><p>河口湖カントリーコテージban！</p>
- <!--
-<a href="20230610_040.JPG" data-lightbox="abc"><img src="20230610_040.JPG" alt="サンプル画像" width="900" /></a>-->
-<section><h4><span class="red">以下、適当な写真集</span></h4></section>
+<!--
+<a href="20230610_040.JPG" data-lightbox="abc"><img src="20230610_040.JPG" alt="サンプル画像" width="900" /></a>
+<section><h4><span class="red">以下、適当な写真集</span></h4></section>-->
 <br>
-	<!--<p>飲屋街は通路にお客さんが溢れ出すほど盛況！</p>-->
+<p>以下、適当な写真集！</p>
 <a href="20231202_001.JPG" data-lightbox="abc"><img src="20231202_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231202_002.JPG" data-lightbox="abc"><img src="20231202_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231202_003.JPG" data-lightbox="abc"><img src="20231202_003.JPG" alt="サンプル画像" width="900" /></a>
