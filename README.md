@@ -79,8 +79,7 @@ body::before {
 	
 <h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
 <section><h4><span class="red">2023年12月2-3日</span><span class="white"><br>今回もマタさんに予約してもらいました。</span></h4></section><br>
-<!--
-<a href="https://tabelog.com/tokyo/A1301/A130103/13007107/" target="_blank"><img src="20230610_039.JPG" alt="サンプル画像" width="900" /></a>-->
+
 	<br><br><p>河口湖カントリーコテージban！</p>
 <!--
 <a href="20230610_040.JPG" data-lightbox="abc"><img src="20230610_040.JPG" alt="サンプル画像" width="900" /></a>
