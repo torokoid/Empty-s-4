@@ -168,6 +168,21 @@ body::before {
 <a href="20231202_079.JPG" data-lightbox="abc"><img src="20231202_079.JPG" alt="サンプル画像" width="900" /></a>
 <p>帰りに寄った沼津港にあるレストランのお刺身定食です。<br>美味かった。目で味わってください（笑）</p>
 <a href="20231202_080.JPG" data-lightbox="abc"><img src="20231202_080.JPG" alt="サンプル画像" width="900" /></a>
+<br><br>
+<p>以下、動画</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xA9i7rDerIg?si=BWVsphBzeQDzEDMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rJFC6G1oQ84?si=H-lMy7Ay5z035XaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pYO4seN5VLk?si=TNYXndTx3eVDKcUy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+
+<p>以下、高速上のおかしな車たち</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SMJPn5XTurI?si=WPdzDmpveQpTWfCc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yyDd0GfGsws?si=AnAfBOrDmktfOn2O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
