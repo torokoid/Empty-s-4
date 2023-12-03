@@ -45,7 +45,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/Empty-s_4/20231202_045.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/Empty-s_4/20231202_075.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -151,7 +151,22 @@ body::before {
 <a href="20231202_063.JPG" data-lightbox="abc"><img src="20231202_063.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231202_064.JPG" data-lightbox="abc"><img src="20231202_064.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20231202_065.JPG" data-lightbox="abc"><img src="20231202_065.JPG" alt="サンプル画像" width="900" /></a>
-
+<p>以下、貴志さん提供写真！</p>
+<a href="20231202_066.JPG" data-lightbox="abc"><img src="20231202_066.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231202_067.JPG" data-lightbox="abc"><img src="20231202_067.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231202_068.JPG" data-lightbox="abc"><img src="20231202_068.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231202_069.JPG" data-lightbox="abc"><img src="20231202_069.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231202_070.JPG" data-lightbox="abc"><img src="20231202_070.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231202_071.JPG" data-lightbox="abc"><img src="20231202_071.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231202_072.JPG" data-lightbox="abc"><img src="20231202_072.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231202_073.JPG" data-lightbox="abc"><img src="20231202_073.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231202_074.JPG" data-lightbox="abc"><img src="20231202_074.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231202_075.JPG" data-lightbox="abc"><img src="20231202_075.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231202_076.JPG" data-lightbox="abc"><img src="20231202_076.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231202_077.JPG" data-lightbox="abc"><img src="20231202_077.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231202_078.JPG" data-lightbox="abc"><img src="20231202_078.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231202_079.JPG" data-lightbox="abc"><img src="20231202_079.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231202_080.JPG" data-lightbox="abc"><img src="20231202_080.JPG" alt="サンプル画像" width="900" /></a>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -168,5 +183,5 @@ body::before {
 
 <!-- フッタ -->
  <footer>
- <span class="white">Copyright 2023/06/11 S.Hada</span>
+ <span class="white">Copyright 2023/12/03 S.Hada</span>
  </footer>
