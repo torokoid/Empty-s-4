@@ -68,7 +68,7 @@ body::before {
 <body onload="alert('エンプティーズ と レプレッションズ、忘年会の記録です！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ。またやりましょう〜(^o^)/')">
 <h1><span class="yellow"><marquee behavior="alternate">!!! Empty's & Lepression's !!!</marquee></span></h1>
 <div style="background-color:rgb(255,255,255,0.5);">
-<p class="topicpath"><a href="https://torokoid.github.io/Empty-s/">忘年会</a>><a href="https://torokoid.github.io/Empty-s_2/">忘年会_2</a>><a href="https://torokoid.github.io/Empty-s_3/">忘年会_3</a>>忘年会_4>><a href="https://torokoid.github.io/Empty-s_LINE/">写真</a>><a href="https://torokoid.github.io/Empty-s_5/">忘年会_5</p></div>
+<p class="topicpath"><a href="https://torokoid.github.io/Empty-s/">忘年会</a>><a href="https://torokoid.github.io/Empty-s_2/">忘年会_2</a>><a href="https://torokoid.github.io/Empty-s_3/">忘年会_3</a>>忘年会_4>><a href="https://torokoid.github.io/Empty-s_LINE/">写真</a>><a href="https://torokoid.github.io/Empty-s_5/">忘年会_5</a></p></div>
 <p align="right">2023、河口湖_bann。</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="QR_____.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
